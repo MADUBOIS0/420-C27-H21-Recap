@@ -17,6 +17,7 @@ public class testUnitaire {
         return num%2==0;
     }
 
+    // trier un tableau en ordre croissant
     public static int[] triCroissantSSS(int[] tab){
         int imin;
         int i;
